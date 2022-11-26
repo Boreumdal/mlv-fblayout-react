@@ -1,3 +1,10 @@
 # mlv-fblayout-react
 
-## Facebook like layout using React and Tailwind. For educational and training purposes only.
+Facebook like layout using React and Tailwind. For educational and training purposes only.
+
+### How to use:
+
+- Download and extract.
+- Open on VS Code and open on terminal.
+- Run command `npm i` to install dependencies and modules.
+- After modules installation, now run `npm run dev` to start the program.
